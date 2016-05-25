@@ -15,3 +15,4 @@ Admin credentials can be accessed by logging into vagrant box:
 Viewing secrets files:
 
 ```sudo cat /etc/scalr-server/scalr-server-secrets.json```
+
